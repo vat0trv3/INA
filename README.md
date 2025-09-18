@@ -17,3 +17,45 @@ INA no es una zombie o momia tradicional, sino una entidad digital que ha sido "
 • Unos guantes sin dedos o mangas largas con pantallas táctiles integradas que le permiten interactuar con el ciberespacio.
 • Brosky su angel flotante : Como un pequeño dron con forma de ojo o un cubo que emite hologramas, su "compañero" o "herramienta de hackeo" que reacciona a sus movimientos y creaciones.
 • Un auricular minimalista que se ilumina intermitentemente al ritmo de sus pensamientos o la música.
+Autor : vatotrave/by.vatt
+
+(# FICHA TÉCNICA DE CREACIÓN: INA
+
+**Versión:** 0.1
+**Fecha de Creación:** Julio de 2024
+**Autor:** vatotrave
+
+
+## A. IDENTIDAD BÁSICA
+
+**Nombre Oficial:** INA
+**Alias/Apodos:** (Pendiente por el momento)
+**Lema Característico:** "BYVATT"
+
+## B. CONCEPTO VISUAL
+
+ **Descripción General:** INA se presenta con una identidad visual deliberadamente enigmática. Su característica principal es su **rostro perpetuamente oculto**, cubierto por un vendaje de tela que no revela rasgo alguno.
+**Vestimenta Principal:**
+     **Torso:** Sudaderas de corte moderno con capucha, en tonos oscuros que sirven como lienzo para delgadas y vibrantes **líneas de luz neón** que recorren las costuras, los brazos o la capucha.
+    **Pantalones:** Estilo urbano y funcional, alterna entre pantalones de tipo militar y otros diseños contemporáneos. `[DETALLE A CONFIRMAR]`
+     **Calzado:** Botas de estilo militar, robustas y funcionales.
+* **Marcas Distintivas:**
+    * **Ojos Misteriosos:** Visibles ocasionalmente a través del vendaje. Su apariencia es inconsistente en color y textura.
+     **Pupila Atómica:** La única característica ocular constante es una pupila con la forma del átomo más simple (núcleo y un electrón orbital).
+* **Acompañante:** **Brosky**, una esfera que levita con un temperamento semi-tierno y neutral.
+
+## C. PSICOLOGÍA Y PERSONALIDAD
+
+* **Rasgos Principales:** Sumamente inteligente y creativo. Proyecta una apariencia calmada, pero posee una mente que procesa información a velocidad vertiginosa. Decidido y eficaz en la acción. Transmite una sensación general de paz.
+* **Fobias:** Pánico inexplicable a los grillos ("chochos").
+* **Habilidades:**
+    * **Hiper-procesamiento mental:** Capacidad de visualizar miles de soluciones y rutas de acción frente a un problema.
+    * **Conocimiento Tecnológico (Percibido):** Se le atribuye erróneamente un gran conocimiento tecnológico, el cual en realidad proviene de su acompañante Brosky.
+* **Motivación Principal:** Encontrar una respuesta a través de la música audiovisual, buscando una "frecuencia" específica que parece poder visualizar pero que se desvanece antes de alcanzarla.
+
+#HISTORIA
+
+* **Origen:** Desconocido. Un misterio central del personaje.
+* **Universo:** Habita en múltiples lugares, alternando entre la Tierra y otras dimensiones o planetas.
+* **Pasado Fragmentado:** Posee recuerdos ligeros de un pasado ligado a la música, posiblemente como miembro de una banda o como DJ.
+#autor vatotrave /.(by.vatt).
